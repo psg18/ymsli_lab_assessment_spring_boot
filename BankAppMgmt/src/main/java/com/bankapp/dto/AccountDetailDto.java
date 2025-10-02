@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class AccountDetailDto {
 	private Integer id;
-	
+	private String pincode;
 	private String phoneNumber;
 	private String address;
 	private String email;
