@@ -10,4 +10,7 @@ class BankAppMgmtApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLeads(){}
+
 }
